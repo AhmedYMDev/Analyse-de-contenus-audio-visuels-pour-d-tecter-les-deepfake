@@ -1,0 +1,3 @@
+Modèle,Accuracy,AUC,Precision Fake,Recall Fake,F1 Fake,F1 Real
+CNN Simple (Étudiant 1),0.8977,0.9623,0.9195,0.8715,0.8948,0.9004
+ResNet18 (Étudiant 2),0.9379,0.9889,0.9075,0.975,0.94,0.9355

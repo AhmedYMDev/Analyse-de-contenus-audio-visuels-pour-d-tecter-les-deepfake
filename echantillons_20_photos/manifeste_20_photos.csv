@@ -1,0 +1,21 @@
+Fichier,Label Réel,Chemin Original
+01_REAL_id35_0008_face_15135.jpg,REAL,Train/real/id35_0008_face_15135.jpg
+02_FAKE_id33_id32_0005_face_26025.jpg,FAKE,Train/fake/id33_id32_0005_face_26025.jpg
+03_FAKE_id39_id44_0006_face_31575.jpg,FAKE,Train/fake/id39_id44_0006_face_31575.jpg
+04_REAL_id27_0007_face_10035.jpg,REAL,Train/real/id27_0007_face_10035.jpg
+05_REAL_00201_face_11405.jpg,REAL,Val/real/00201_face_11405.jpg
+06_REAL_00001_face_83.jpg,REAL,Train/real/00001_face_83.jpg
+07_FAKE_id3_id35_0009_face_33016.jpg,FAKE,Train/fake/id3_id35_0009_face_33016.jpg
+08_REAL_00105_face_5985.jpg,REAL,Val/real/00105_face_5985.jpg
+09_FAKE_id26_id23_0001_face_14730.jpg,FAKE,Train/fake/id26_id23_0001_face_14730.jpg
+10_FAKE_id9_id16_0005_face_49680.jpg,FAKE,Train/fake/id9_id16_0005_face_49680.jpg
+11_FAKE_id35_id34_0009_face_28335.jpg,FAKE,Test/fake/id35_id34_0009_face_28335.jpg
+12_REAL_00201_face_11423.jpg,REAL,Train/real/00201_face_11423.jpg
+13_REAL_id16_0012_face_3842.jpg,REAL,Train/real/id16_0012_face_3842.jpg
+14_FAKE_id43_id40_0008_face_35203.jpg,FAKE,Train/fake/id43_id40_0008_face_35203.jpg
+15_REAL_id49_0003_face_22919.jpg,REAL,Train/real/id49_0003_face_22919.jpg
+16_FAKE_id0_id21_0005_face_366.jpg,FAKE,Train/fake/id0_id21_0005_face_366.jpg
+17_REAL_id34_0007_face_14502.jpg,REAL,Train/real/id34_0007_face_14502.jpg
+18_FAKE_id31_id23_0001_face_23336.jpg,FAKE,Train/fake/id31_id23_0001_face_23336.jpg
+19_FAKE_id41_id40_0002_face_34111.jpg,FAKE,Train/fake/id41_id40_0002_face_34111.jpg
+20_REAL_id13_0005_face_2458.jpg,REAL,Train/real/id13_0005_face_2458.jpg
