@@ -1,0 +1,4 @@
+# Dépendances minimales de la CI : tests rapides (métriques, prétraitement)
+numpy>=1.26,<3
+pillow>=10,<14
+pytest>=8

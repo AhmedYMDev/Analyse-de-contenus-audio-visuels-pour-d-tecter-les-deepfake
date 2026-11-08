@@ -1,0 +1,6 @@
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+  "models: tests nécessitant PyTorch/TensorFlow et les artefacts du dépôt (lents)",
+]
+filterwarnings = ["ignore::DeprecationWarning"]

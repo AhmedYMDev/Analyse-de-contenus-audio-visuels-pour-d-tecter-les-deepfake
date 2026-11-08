@@ -1,0 +1,10 @@
+# Notebook, scripts d'évaluation et tests
+-r requirements.txt
+pandas>=2.0,<4
+scikit-learn>=1.3,<2
+matplotlib>=3.7,<4
+jupyterlab>=4
+nbformat>=5
+nbconvert>=7
+ipykernel>=6
+pytest>=8
