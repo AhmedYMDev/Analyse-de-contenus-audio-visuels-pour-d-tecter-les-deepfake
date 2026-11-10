@@ -8,6 +8,9 @@ application Flask qui compare en direct deux architectures indépendantes :
 | **ResNet-18** (Étudiant 2) | transfer learning ImageNet, fine-tuning | PyTorch |
 | **CNN Simple** (Étudiant 1) | réseau convolutif entraîné de zéro | Keras 3 / TensorFlow |
 
+> Pour comprendre le projet pas à pas (rôle de chaque fichier, notions à maîtriser, étapes
+> restantes, questions de soutenance) : **[docs/guide-projet.md](docs/guide-projet.md)**.
+
 ---
 
 ## ⚠️ Statut des métriques
@@ -101,7 +104,9 @@ DeepLearningProjetCode/
 ├── result_etudiant2/                   # Artefacts ResNet-18 (historiques)
 │
 ├── tests/                              # 45 tests (pytest)
-└── docs/revue-initiale.md              # Audit initial, postes corrigés
+└── docs/
+    ├── guide-projet.md                 # Comprendre, terminer, soutenir (étapes pas à pas)
+    └── revue-initiale.md               # Audit initial, postes corrigés
 ```
 
 ---
